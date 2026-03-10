@@ -38,7 +38,7 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sumon.chakroborty.1656)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)]([https://yourportfolio.com/](https://my-portfolio-virid-alpha-mrre8z6j2x.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://my-portfolio-virid-alpha-mrre8z6j2x.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:sumonchakrobarty9466@gmail.com)
 
 ---
